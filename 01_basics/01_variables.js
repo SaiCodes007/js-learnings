@@ -4,4 +4,5 @@ var accountPassword = "12345"
 
 /*accountID = 1234*/
 
-console.log(accountID)
+console.log(accountID);
+console.table([accountID] , [accEmail] , [accountPassword])
