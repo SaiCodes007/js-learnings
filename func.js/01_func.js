@@ -13,5 +13,5 @@ function addTwoNum(num1 , num2){
 
 const result = addTwoNum(11,22)
 
-//console.log("Result: ", result);
+//console.log("Result: ", result); 
 
